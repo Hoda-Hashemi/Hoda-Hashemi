@@ -1,7 +1,6 @@
 # 🌊 About Me:
 Physics graduate pursuing a Master's in Computational Science, specializing in Ocean Modeling and Vortex methods<br>Developing a personal website focused on Computational Fluid Dynamics.<br>
 
-https://github.com/user-attachments/assets/ef9d2a06-e94f-4577-bf19-e54dfc4105ec
 
 
 # ⌨️ Tech Stack:
