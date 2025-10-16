@@ -1,2 +1,2 @@
-# 🌊 About Me:
-Physics graduate pursuing a Master's in Computational Science, specializing in Oceanography.
+🌊
+Physics graduate pursuing a Master's in Computational Science, specializing in Physical Oceanography.
