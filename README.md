@@ -1,2 +1,5 @@
 🌊
-A physics graduate is pursuing a master’s degree in computational science, with a specialization in physical oceanography.
+M.Sc. in Computational Science
+Specialization: Physical Oceanography
+
+B.Sc. in Theoretical Physics
