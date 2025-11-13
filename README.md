@@ -1,3 +1,2 @@
 🌊
-M.Sc. in Computational Science
-B.Sc. in Theoretical Physics
+M.S. Computational Science, B.S. Theoretical Physics
