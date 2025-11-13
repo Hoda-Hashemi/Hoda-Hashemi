@@ -1,5 +1,3 @@
 🌊
-### M.Sc. in Computational Science
-Specialization: Physical Oceanography
-
-### B.Sc. in Theoretical Physics
+M.Sc. in Computational Science
+B.Sc. in Theoretical Physics
